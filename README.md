@@ -1,7 +1,3 @@
-<div align="center">
-<img width="100%" height = "100%" src="https://avatars.githubusercontent.com/u/46038785?s=400&u=faf7394fa3a916be2a7e24746b7a2813443490f7&v=4" alt="cover" />
-</div>
-
 - 👋 Hi, I’m @imamnurhy
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
